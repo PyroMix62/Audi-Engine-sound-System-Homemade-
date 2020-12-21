@@ -12,12 +12,20 @@ Le projet consiste à reproduire ce system à l’aide d’arduino / ESP32 d’un ampli 
 Il se décompose en deux parties
 - La première l’acquisition du signal sur un system ESS original Audi et de déterminer quels paramètres modulent le signal via le canbus
 - La seconde en générant le signal à l’aide d’un arduino et d’un ampli de basse en fonction du canbus ou du Kline sur des modèles plus anciens
+- 
+
+
+
+
+
  
 https://www.youtube.com/watch?v=GB_BiA1U9tk
 
 https://www.youtube.com/watch?v=qm_5ID-8Wb0
 
 https://youtu.be/scDwjCemJrY
+
+
 
 
  
